@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "Goat Farm",
-    "slug": "goat_farm_app",
+    "slug": "goatfarmapp",
     "version": "1.0.0",
     "sdkVersion": "48.0.0",
     "platforms": ["android", "ios"],
