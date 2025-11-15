@@ -7,6 +7,11 @@
     "platforms": ["android", "ios"],
     "android": {
       "package": "com.hazrasoumavho2012.goatfarm"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "<acf9a911-b5f2-4d5f-8833-7f95e6374a4d>"
+      }
     }
   }
 }
