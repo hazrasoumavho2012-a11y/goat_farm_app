@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "Goat Farm",
+    "slug": "goat_farm_app",
+    "version": "1.0.0",
+    "sdkVersion": "48.0.0",
+    "platforms": ["android", "ios"],
+    "android": {
+      "package": "com.hazrasoumavho2012.goatfarm"
+    }
+  }
+}
